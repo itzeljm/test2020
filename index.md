@@ -1,7 +1,5 @@
 ## Welcome to Itzels page 
-You can use the [editor on GitHub](https://github.com/itzeljm/test2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the see a great video here (https://drive.google.com/file/d/1xOq0fn1wZMFC52bP3FBFYf7Od7yYfSFQ/view)  
 
 ### Markdown
 
@@ -24,6 +22,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![Image](https://image.shutterstock.com/image-photo/cat-medical-mask-protective-antiviral-260nw-1684423789.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
