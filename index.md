@@ -4,7 +4,7 @@ You can use the see a great video here
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Glad to be here!!!! 
 
 ```markdown
 Syntax highlighted code block
